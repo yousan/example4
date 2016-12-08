@@ -1,8 +1,0 @@
-language: php
-php:
-- '5.5'
-- '5.4'
-notifications:
-  slack:
-    rooms:
-      secure: KG2iZfjPPN+b+9NQhVH33sIsfdyTVQGzqxPSyQHS5D2GkZIXt9zjTJFLgkL991rReluRaICsG+5/R8znPlVEIV6CNP/ls3sEAcTTMHH+pXECM/c5XoQ9/cN5Rlyy5ZkFJQo+xlWzN3SwzAgzcDQzVJUJ5UCIvkQQFyRP5BN9utR7PrV9i+wZwh0sMMW2Xlr5cL6o1Tu4/A9ez/vEgA3egvZmEo0mhXuW4jUMCZSoOyXxsa3DredlkgfH7mVjDSlV2R6rkWk+NCbb7uYsc2vuoARLFQXHqmpKUyzurgi/t6al3gF4NFX/gOjH6ehXUrHe/yWjwUAO3OL7NN8PhqR+AgeiLgFd2qxgDB9aNbzMryF2K8vIhMWsnmNztgw+nRvETQthD/KkDwf5TFL5B6cpoQhSmleqZmPMuwKed0+QcGmvlboYPC6eSFOSYFWf1pZmCpnmcPskdFn7vD81UDch4MK27kreqxmUxGf4Qq5FbU9AAs6bFVgvZ2jw+mhTf9PzbZAVkDdH0lOZUQjgWEygD1OoNyFCsJFfqefXSrHrYZVq4LVBOhtu+fElsfZ/Pn1MyfJ69UqSHqALlsgjSZKtIKuctiBmE/nt7+/K6tFLeUWYmGTtp00LTzfWrYNRSqYPze+5nQo83gwpwlZY/Yw0fjftcYm6+WDN/3jf1L8WOpY=
